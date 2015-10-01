@@ -6,7 +6,6 @@ Data Science with python.
 
 Author: Victor Green, vgreen@gds.org
 Date: 09-30-2015
-
 """
 
 
@@ -252,8 +251,8 @@ def main( argv ):
 	for opt, arg in opts:
 		if opt == '-h' or opt == '--help':
 			print ''
-			print 'viper.py -i <input_file> -o <output_file> -v <output_image>'
-			print 'viper.py --inputfile <input_file> --outputfile <output_file> --outputimage <output_image>'
+			print 'viper.py -s -i <input_file> -o <output_file> -v <output_image>'
+			print 'viper.py --showresults --inputfile <input_file> --outputfile <output_file> --outputimage <output_image>'
 			print ''
 			sys.exit()
 
