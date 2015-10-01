@@ -9,7 +9,7 @@ Date: 09-30-2015
 
 Goal: To create a universal template for data science workflow as it 
 pertains to python. The purpose is to predifine as much boilerplate code
-as possible subscibing to a functional programming paridigm allowing aspiring
+as possible subscribing to a functional programming paridigm allowing aspiring
 and current data scientists to focus on data science while learning the particulars
 of the python programming language. Use and modify this template as you see fit and please
 fork this project on github. All improvements / suggestions are wellcome.
