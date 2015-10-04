@@ -62,13 +62,13 @@ print "theodore".count("eo",0,len("theodore"))
 
 
 # endswith()
-#print "theodore".endswith("ore")
-#print "theodore".endswith("ore",0,len(name))
+print "theodore".endswith("ore")
+print "theodore".endswith("ore",0,len(name))
 
 
 # find()
-#print "theodore".find("eodz")
-#print "theodore".find("eodz",0,len(name))
+print "theodore".find("eodz")
+print "theodore".find("eodz",0,len(name))
 
 
 # index()
@@ -118,8 +118,8 @@ print "   Theodore".lstrip()
 
 
 # rfind()
-#print "theodore".rfind("eodz")
-#print "theodore".rfind("eodz",0,len(name))
+print "theodore".rfind("eodz")
+print "theodore".rfind("eodz",0,len(name))
 
 
 # rindex()
